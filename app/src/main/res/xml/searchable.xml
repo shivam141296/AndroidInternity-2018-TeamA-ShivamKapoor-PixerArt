@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="@string/pixer_art"
+    android:hint="@string/search_pixerart"
+    android:searchSuggestIntentAction="android.intent.action.VIEW"
+    android:includeInGlobalSearch="true"
+    android:searchSettingsDescription="@string/settings_description"
+    android:voiceSearchMode="showVoiceSearchButton|launchRecognizer"
+    android:searchSuggestAuthority="com.android.bittiger.janescookies.tinyflickr.SuggestionProvider"
+    android:searchSuggestSelection=" ?">
+
+</searchable>

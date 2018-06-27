@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PixerArt</string>
+    <string name="pixer_art">Pixer Art</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="clear_search">clear search</string>
+    <string name="openviaweb">Open via App/Website</string>
+    <string name="download">Download</string>
+    <string name="search_pixerart">Search PixerArt</string>
+    <string name="settings_description">this is description</string>
+</resources>
