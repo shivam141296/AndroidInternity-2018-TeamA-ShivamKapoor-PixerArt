@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "561909204059",
+    "firebase_url": "https://pixerart-423ef.firebaseio.com",
+    "project_id": "pixerart-423ef",
+    "storage_bucket": "pixerart-423ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561909204059:android:06eeb4b923ba15e9",
+        "android_client_info": {
+          "package_name": "com.bridge.android.pixerart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561909204059-lvd2vdrh1d2ihknng05gjvk7mher0e00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bridge.android.pixerart",
+            "certificate_hash": "fe04b88cc4686595b2b07cfc52469e1669764d46"
+          }
+        },
+        {
+          "client_id": "561909204059-viot2tfonkv1uircihkj02hodgd6qe0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdxTJLyLGlVdZ-ZYxtZ8RiOR1bq5UNh_g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561909204059-viot2tfonkv1uircihkj02hodgd6qe0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
